@@ -1,11 +1,5 @@
-- 👋 Hi, I’m @Benjamin2320
-- 👀 I’m interested in ... All things Cybersecurity
-- 🌱 I’m currently learning ... Penetration Testing and Engineering
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- ⚡ Fun fact: ...
+Welcome to the Github of Benjamin Bell. 
+I am an aspiring Threat Hunter and current cybersecurity student.
+Here, I will be showcasing the scripts and code that I develop to automate tasks and create tools used in my endeavors.
 
-<!---
-Benjamin2320/Benjamin2320 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ENJOY!
